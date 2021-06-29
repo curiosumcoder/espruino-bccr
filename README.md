@@ -1,7 +1,7 @@
 # Espruino-BCCR
 Se presenta un proyecto elaborado utilizando el dispositivo [Espruino Wifi](https://shop.espruino.com/espruino-wifi), con el cual se logra consumir el Web Service del Banco Central de Costa Rica para presentar información del tipo de cambio de colón costarricense respecto del dolar estadounidense.
 
-En [YouTube](https://www.youtube.com/watch?v=hSyXpM1L4B4) dejo un video con la explicación.
+En YouTube dejo un video con [la explicación](https://www.youtube.com/watch?v=hSyXpM1L4B4).
 
 ## Sobre Espruino
 El [Espruino](https://www.espruino.com/) es un firmware open-source creado por [Gordon Willians](https://www.youtube.com/watch?v=hSyXpM1L4B4), que implementa un interprete de JavaScript para microcontroladores.
