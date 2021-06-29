@@ -23,7 +23,13 @@ Con el proyecto que presento estoy creando un dispositivo del [IoT](https://en.w
 2. Obtener una [pantalla OLED](https://www.crcibernetica.com/128-x-64-oled-module/) que utilice el controlador SSD1306 con conexión SPI. Puede ser que esté disponible en tiendas locales de electrónica.
 3. Hacer la conexión física del Espruino Wifi la pantalla OLED. Aquí están el diagrama hecho con Fritzing, y la foto como queda finalmente.
 
-![The San Juan Mountains are beautiful!](espruino-bccr-640.png "San Juan Mountains")
+    ![Conexiones!](espruino-bccr.png "Conexiones")
+    
+    El archivo en Fritzing está [aquí](espruino-bccr.fzz).
+
+    ![Conexiones!](espruino-bccr-actual.png "Conexiones")
+
+4.
 
 ### Software
 
