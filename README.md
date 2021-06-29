@@ -18,6 +18,8 @@ Personalmente la consulta del tipo de cambio colones costarricenses por dólares
 
 Con el proyecto que presento estoy creando un dispositivo del [IoT](https://en.wikipedia.org/wiki/Internet_of_things) (Internet de las cosas). En este caso haciendo uso del [Espruino Wifi](https://shop.espruino.com/espruino-wifi) logro la conexión a un red WiFi, para posteriormente consumir el [Servicio Web que el Banco Central de Costa Rica](https://www.bccr.fi.cr/indicadores-economicos/servicio-web) ofrece al público para la consulta de indicadores financieros, una vez obtenidos los valores del tipo de cambio de colones costarricenses por dólares americanos lo muestro en una pequeña pantalla OLED.
 
+Para hacer uso del Web Service hay que hacer un registro para obtener un **Token** de acceso. Una vez hecho el registro, es posible hacer pruebas desde el navegador en la dirección https://gee.bccr.fi.cr/Indicadores/Suscripciones/WS/wsindicadoreseconomicos.asmx. En este proyecto se está utilizando el método XML, ObtenerIndicadoresEconomicosXML .
+
 ## Implementación
 
 ### Hardware
